@@ -1,5 +1,7 @@
 # WalletConnect Example Dapp
 
+![Preview](docs/preview.png)
+
 ## Develop
 
 ```bash
