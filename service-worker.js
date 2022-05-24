@@ -15,7 +15,7 @@ importScripts("/walletconnect-example-dapp/workbox-v3.6.3/workbox-sw.js");
 workbox.setConfig({modulePathPrefix: "/walletconnect-example-dapp/workbox-v3.6.3"});
 
 importScripts(
-  "/walletconnect-example-dapp/precache-manifest.59dc1f03c3f3d3dc17a62d89eea97df6.js"
+  "/walletconnect-example-dapp/precache-manifest.95a309baa06fe67095c22ffbcedeb97d.js"
 );
 
 workbox.clientsClaim();
